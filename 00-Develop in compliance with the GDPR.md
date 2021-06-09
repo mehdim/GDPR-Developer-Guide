@@ -1,4 +1,4 @@
-# Sheet n°0: Develop in compliance with the GDPR
+# Your role as Developer to achieve GDPR compliance
 
 #### Whether you work alone, are part of a team developing a project, manage a development team, or are a service provider carrying out developments for third parties, it is essential to ensure that user data and all personal data processing are sufficiently protected throughout the lifecycle of the project.
 
@@ -16,4 +16,3 @@ The following steps will help you in developing privacy-friendly applications or
 
 6. **Document developments compliance** to prove your compliance with the GDPR at all times: the actions performed and the documents produced at each stage of development must be mastered. This implies in particular a regular review and update of the documentation of your developments so that it is constantly consistent with the features deployed on your program.
 
-The CNIL website provides numerous practical files which will assist you in setting up law-abiding treatments according to your sector of activity.
